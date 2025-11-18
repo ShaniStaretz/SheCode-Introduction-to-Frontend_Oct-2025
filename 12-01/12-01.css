@@ -1,0 +1,12 @@
+#blue-button {
+  background-color: blue;
+}
+
+#yellow-button {
+  background-color: yellow;
+}
+
+button {
+  margin: 20px;
+  padding: 20px;
+}
