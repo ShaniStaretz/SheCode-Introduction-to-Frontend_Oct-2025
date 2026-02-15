@@ -1,9 +1,25 @@
+/**
+ * Blue Button Styles
+ * 
+ * Applies a blue background color to elements with the ID "blue-button".
+ * 
+ * @selector #blue-button
+ * @property {color} background-color - Sets the background color to blue
+ */
 #blue-button {
   background-color: blue;
 }
 
 #yellow-button {
   background-color: yellow;
+}
+
+.yellow-text {
+  background-color: yellow;
+}
+
+.yellow-text {
+  background-color: blue;
 }
 
 button {
