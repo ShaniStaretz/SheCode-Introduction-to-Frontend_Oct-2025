@@ -1,0 +1,68 @@
+a {
+  background-color: #1f62e5;
+  color: #60a1ff;
+}
+
+#queen-link {
+  background-color: #f9a825;
+  color: #1a1a1a;
+}
+
+#rock-link {
+  background-color: #1976d2;
+  color: #ffffff;
+}
+
+#freddie-link {
+  background-color: #d32f2f;
+  color: #ffffff;
+}
+
+#brian-link {
+  background-color: #8e24aa;
+  color: #ffffff;
+}
+
+#roger-link {
+  background-color: #00796b;
+  color: #ffffff;
+}
+
+#john-link {
+  background-color: #ef6c00;
+  color: #ffffff;
+}
+
+#progressive-link {
+  background-color: #3949ab;
+  color: #ffffff;
+}
+
+#hard-link {
+  background-color: #c2185b;
+  color: #ffffff;
+}
+
+#heavy-link {
+  background-color: #00695c;
+  color: #ffffff;
+}
+
+#arena-link {
+  background-color: #5d4037;
+  color: #ffffff;
+}
+
+#pop-link {
+  background-color: #f06292;
+  color: #ffffff;
+}
+
+em {
+  font-size: 30px;
+}
+
+h1 a {
+  background-color: #35a752;
+  color: #1d3f27;
+}
