@@ -1,0 +1,32 @@
+body {
+  background-color: darkblue;
+}
+
+.flag {
+  background-color: aqua;
+  width: 300px;
+  height: 210px;
+}
+
+.stripe-length {
+  height: 70px;
+}
+
+.green-stripe {
+  background-color: #019a6b;
+}
+.red-stripe {
+  background-color: red;
+}
+
+#black-stripe {
+  background-color: black;
+}
+
+#yellow-stripe {
+  background-color: yellow;
+}
+
+.white-stripe {
+  background-color: white;
+}

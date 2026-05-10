@@ -1,0 +1,18 @@
+.todo-container {
+  height: 300px;
+  width: 200px;
+  background-color: #fcf4bd;
+  padding: 15px;
+  border: 1px solid black;
+}
+
+#title {
+  color: #743ae0;
+  font-weight: bold;
+}
+
+.todo {
+  width: 150px;
+  background-color: gainsboro;
+  margin: 10px;
+}
