@@ -50,3 +50,19 @@ li {
   color: #2b2b2b;
   font-size: 1rem;
 }
+
+.decoration-purple {
+  text-decoration: underline overline dashed purple;
+}
+
+.decoration-green {
+  text-decoration: line-through double green 4px;
+}
+
+.decoration-orange {
+  text-decoration: overline solid orange;
+}
+
+.decoration-dotted {
+  text-decoration: underline line-through dotted 2px;
+}
