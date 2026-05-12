@@ -1,0 +1,42 @@
+body {
+  background-color: beige;
+}
+
+.flag {
+  display: flex;
+  flex-direction: row;
+  background-color: aqua;
+  width: 300px;
+  height: 200px;
+}
+
+.stripe-length {
+  width: 100px;
+  height: 200px;
+}
+
+.green-stripe {
+  background-color: #019a6b;
+}
+.red-stripe {
+  background-color: red;
+}
+
+#black-stripe {
+  background-color: black;
+}
+
+#yellow-stripe {
+  background-color: yellow;
+}
+
+.white-stripe {
+  background-color: white;
+}
+
+#blue-stripe {
+  background-color: blue;
+}
+#orange-stripe {
+  background-color: orange;
+}

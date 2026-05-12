@@ -1,0 +1,29 @@
+.container {
+  width: 200px;
+  height: 200px;
+  margin: 50px;
+  border: 2px solid blue;
+
+  display: flex;
+  flex-flow: column wrap;
+}
+
+.small-square {
+  width: 55px;
+  height: 55px;
+}
+
+#s1 {
+  border: 2px solid red;
+}
+
+#s2 {
+  border: 2px solid green;
+}
+
+#s3 {
+  border: 2px solid purple;
+}
+#s4 {
+  border: 2px solid black;
+}
