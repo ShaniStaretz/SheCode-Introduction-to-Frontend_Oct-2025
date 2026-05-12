@@ -1,0 +1,14 @@
+.cats {
+  padding: 10px;
+  margin: 10px;
+}
+
+#collection {
+  border: 5px solid green;
+}
+#ginger {
+  border: 5px dashed blue;
+}
+#cat {
+  border: 5px dotted red;
+}

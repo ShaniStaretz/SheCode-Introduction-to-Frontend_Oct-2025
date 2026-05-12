@@ -1,0 +1,15 @@
+#collection {
+  margin-top: 90px;
+  padding-top: 8px;
+  padding-right: 29px;
+  border: 5px solid green;
+}
+
+#ginger {
+  border-bottom: brown 8px solid;
+}
+
+#cat {
+  padding: 30px 10px;
+  border: 5px dotted red;
+}
